@@ -1,3 +1,2 @@
 #!/bin/bash
-# Find the 10 newest files in the current directory and store them in an array
 ls -tl | head -n 10
