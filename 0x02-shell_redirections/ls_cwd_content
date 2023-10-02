@@ -1,0 +1,16 @@
+total 120
+drwxr-xr-x  15 user  staff    480 Oct  2 15:47 .
+drwxr-xr-x   5 user  staff    160 Oct  2 14:45 ..
+-rw-r--r--   1 user  staff  16384 Oct  2 15:45 .8-cwd_state.swp
+-rwxr-xr-x   1 user  staff     32 Oct  2 13:32 0-hello_world
+-rwxr-xr-x@  1 user  staff     28 Oct  2 13:58 1-confused_smiley
+-rwxr-xr-x   1 user  staff     28 Oct  2 14:34 2-hellofile
+-rwxr-xr-x@  1 user  staff     39 Oct  2 14:55 3-twofiles
+-rwxr-xr-x   1 user  staff     35 Oct  2 14:58 4-lastlines
+-rwxr-xr-x   1 user  staff     35 Oct  2 15:00 5-firstlines
+-rwxr-xr-x   1 user  staff     40 Oct  2 15:06 6-third_line
+-rwxr-xr-x   1 user  staff     76 Oct  2 15:41 7-file
+-rwxr-xr-x   1 user  staff     36 Oct  2 15:46 8-cwd_state
+-rw-r--r--   1 user  staff    116 Oct  2 13:43 README.md
+-rw-r--r--   1 user  staff     12 Oct  2 15:42 \*\\'"Best School"'\\*$\?*****:)
+-rw-r--r--   1 user  staff      0 Oct  2 15:47 ls_cwd_content
