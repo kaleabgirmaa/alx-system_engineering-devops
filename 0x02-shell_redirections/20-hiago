@@ -1,0 +1,5 @@
+#!/bin/bash
+
+read -p "Enter a string: " input_string
+output_string=$(echo "$input_string" | tr -d 'cC')
+echo "Modified string: $output_string"
